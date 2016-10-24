@@ -1,2 +1,2 @@
-# porfolio
-Current porfolio
+# portfolio
+Current portfolio
