@@ -1,0 +1,75 @@
+li {
+  float: left;
+}
+#home {
+  margin-top: 50px;
+}
+div.image-home {
+  height: 550px;
+  background: url('https://s31.postimg.org/ggk6gf66j/Wallpaper_Crystals.jpg');
+  border: 2px solid black;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+div.transbox {
+  margin: 10%;
+  border: 1px solid black;
+  opacity; 0.7;
+}
+div.desc {
+  padding-top: 100px;
+  padding-bottom: 150px;
+  text-aling: justify;
+  font-family: montserrat;
+}
+.tittle-text {
+  padding: 30px;
+  font-size: 70px;
+  color: #007;
+}
+.sub-text {
+  font-size: 20px;
+  color: #000;
+}
+p.line {
+  border: 2px solid black;
+}
+#projects a img {
+  margin: 5px;
+  border: 3px solid #CCC;
+  max-width: 320px;
+  margin: auto;
+}
+div.desc-img {
+  padding: 15px;
+}
+#projects a img:hover {
+  border: 3px solid #777;
+}
+div.image-contact {
+  height: 550px;
+  background: url('https://s31.postimg.org/irdn6urkb/background.jpg');
+  border: 1px solid black;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.need-space{
+  padding-top: 50px;
+}
+div.img-contact {
+  align-content: center;
+}
+#contact div.row div {
+  padding: 20px;
+}
+#contact a img {
+  max-width: 100px;
+  margin: auto;
+}
+#contact a img:hover {
+  border: 3px solid white;
+}
+footer {
+  padding-top: 30px;
+  padding-bottom: 100px;
+}

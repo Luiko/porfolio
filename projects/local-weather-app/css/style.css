@@ -1,0 +1,36 @@
+body {
+  color: #0033AA;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+h1 {
+  font-size: 80px;
+  color: #cc0000;
+  font-family: Josefin Sans;
+  text-shadow: 0px 5.5px 3px white;
+}
+
+section {
+  border: 2px solid white;
+  border-radius: 10px;
+  max-width: 400px;
+}
+
+p {
+  font-size: 40px;
+  text-shadow: 0px 5px 3px white;
+}
+
+button {  
+  opacity: 1.4;
+}
+
+footer {
+  padding: 2em;
+  font-size: 25px;
+  color: #cc0000;
+  text-shadow: 0px 4px 3px white;
+}

@@ -1,0 +1,56 @@
+.main-form {
+  padding-bottom: 20px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+  padding-top: 200px;
+  text-align: center;
+}
+
+.search {
+  background-image: url("https://goo.gl/lrgwxJ");
+  background-size: 30px;
+  background-repeat: no-repeat;
+  padding-left: 30px;
+}
+
+.well {
+  text-align: justify;
+  background-color: lightblue;
+  width: 80%;
+  margin: auto;
+  font-family: 'IM Fell Great Primer SC', serif;;
+}
+
+.well#error {
+  background-color: white;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  border: thick solid rgb(255, 0, 0);
+}
+
+.well:hover {
+  opacity: 0.75;
+  cursor: pointer;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+}
+
+em {
+  word-wrap: break-word;
+}
+
+div.container-fluid {
+  padding-bottom: 160px;
+}

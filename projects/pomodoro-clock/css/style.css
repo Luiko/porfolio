@@ -1,0 +1,106 @@
+body {
+  background-color: #9495a5;
+  font-size: 16px;
+  margin-top: 60px;
+  margin-bottom: 100px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+}
+
+h1, h3 {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+#errorMessage {
+  display: none;
+  float: left;
+}
+
+input[type="number"] {
+  text-align: center;
+}
+
+#clock, #clock div {
+  border-radius: 8px;
+}
+
+#counter {
+  margin-top: 20px
+}
+
+p {
+  padding: 0 1em 0;
+  display: inline;
+}
+
+#time {
+  float: right;
+  right: 0;
+  padding: 6px;
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: #35c45f;
+  text-align: right;
+}
+
+#clockHeader .well {
+  max-width: 320px;
+  margin-top: 30px;
+  margin-bottom: -5px;
+}
+
+h3 {
+  text-align: center;
+  color: #35c45f;
+}
+
+#clock {
+  height: 320px;
+  width: 320px;
+  background-color: white;
+  padding: 0;
+  font-weight: bold;
+}
+
+img {
+  position: absolute;
+}
+
+#void {  
+  height: 35px;
+  width: 320px;
+  background-color: white;
+}
+
+#missingSand {  
+  height: 123px;
+  width: 320px;
+  background-color: #ac7e54;
+}
+
+#fallingSand {
+  height: 0px;
+  width: 12px;
+  margin-left: 147px;
+  background-color: #ac7e54;
+}
+
+#space {
+  height: 2px;
+  width: 320px;
+  background-color: white;
+}
+
+#currentSand {  
+  height: 0px;
+  width: 320px;
+  background-color: #ac7e54;
+}
+
+footer {
+  text-align: center;
+  padding: 100px;
+}

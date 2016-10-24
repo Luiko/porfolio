@@ -1,0 +1,45 @@
+img {
+  margin: auto;
+}
+.main-image {
+  width: 370px;
+}
+h1 {
+  font-family: Josefin Sans;
+  font-size: 60px;
+}
+blockquote { 
+  border: 0;
+}
+h2 {
+  margin-top: 50px;
+  font-family: Ubuntu;
+}
+.title-color{
+  color: brown;
+}
+body {
+  margin-top: 200px;
+  background-color: #BCCCCA;
+}
+.my-comments {
+  font-size: 18px;
+  font-family: ubuntu;
+}
+.content {
+  padding: 0;
+  font-family: montserrat;
+  list-style: none;
+}
+.more-information {
+  margin-top: 30px;
+  margin-bottom: 70px;
+  background-color: #DCD;
+}
+li {
+  padding: 6px;
+  text-align: justify;
+}
+footer {
+  margin-bottom: 80px;
+}
