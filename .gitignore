@@ -40,6 +40,5 @@ jspm_packages
 babel
 .vscode
 carousel*
-simon-game
 use-the-twitch-tv-json-api
 *.txt
