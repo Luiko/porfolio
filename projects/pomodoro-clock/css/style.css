@@ -14,6 +14,10 @@ h1, h3 {
   font-family: 'Josefin Sans', sans-serif;
 }
 
+form {
+  padding: 5%;
+}
+
 #errorMessage {
   display: none;
   float: left;
@@ -69,13 +73,13 @@ img {
   position: absolute;
 }
 
-#void {  
+#void {
   height: 35px;
   width: 320px;
   background-color: white;
 }
 
-#missingSand {  
+#missingSand {
   height: 123px;
   width: 320px;
   background-color: #ac7e54;
@@ -94,7 +98,7 @@ img {
   background-color: white;
 }
 
-#currentSand {  
+#currentSand {
   height: 0px;
   width: 320px;
   background-color: #ac7e54;
