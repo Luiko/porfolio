@@ -22,7 +22,16 @@ img:hover {
     background-color: black;
     border-radius: 4px;
 }
+
+#contact a, footer {
+    font-family: monospace;
+    font-size: 16px;
+}
+.copyleft {
+    display: inline-block;
+    transform: rotate(180deg);
+}
 footer {
-    padding-top: 100px;
-    padding-bottom: 140px;
+    padding-top: 200px;
+    padding-bottom: 200px;
 }
